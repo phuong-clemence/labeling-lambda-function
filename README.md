@@ -15,7 +15,7 @@ Add the lambda_function.py to the package directory
 
 Create a .zip file of this package directory. Do not zip the folder but the content of it.
 
-Go to your AWS Lanbda function page.
+Go to your AWS Lambda function page.
 
 In the Code Source part, select "Upload from .zip file"
 
